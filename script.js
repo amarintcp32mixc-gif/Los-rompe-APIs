@@ -1,4 +1,4 @@
-const API_URL = "https://pruebaapi-9zax.onrender.com";
+const API_URL = "https://los-rompe-apis.onrender.com";
 
 function encender() {
   fetch(API_URL + "/led/on");
